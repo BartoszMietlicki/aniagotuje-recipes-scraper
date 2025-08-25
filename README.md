@@ -1,6 +1,6 @@
 # AniaGotuje Recipes Scraper
 
-A lightweight project that collects recipe links and content from **AniaGotuje.pl** and returns everything in a single DataFrame (no file output).
+Python notebook project that collects recipe links and content from **AniaGotuje.pl** and returns everything in a single DataFrame (no file output).
 
 ## Description
 This notebook performs the full data-collection workflow:
@@ -21,7 +21,7 @@ If the site or libraries change again and something breaks, please contact the a
 
 ## Ethics & legality of scraping
 This is a **student/educational** project. Please use it responsibly:
-- respect the site’s Terms of Service and guidance in `robots.txt`,
+- respect the site’s Terms of Service,
 - avoid overloading the server (reasonable request rate),
 - comply with copyright and database rights.
 
